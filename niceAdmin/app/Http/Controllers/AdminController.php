@@ -18,5 +18,5 @@ class AdminController extends Controller
     public function loadChartJsPage(){
         return view("admin.chartjs-page");
     }
- 
+ //
 }
